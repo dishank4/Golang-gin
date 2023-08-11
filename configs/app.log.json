@@ -1,0 +1,6 @@
+{
+    "logging": {
+      "level": "info",
+      "file_path": "/var/log/myapp.log"
+    }
+  }
