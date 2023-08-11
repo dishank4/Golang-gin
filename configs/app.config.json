@@ -1,0 +1,10 @@
+{
+    "app": {
+      "name": "MyApp",
+      "version": "1.0.0"
+    },
+    "api": {
+      "base_url": "https://api.example.com",
+      "timeout": 10
+    }
+  }
